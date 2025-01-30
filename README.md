@@ -4,9 +4,10 @@
 This project analyzes sleep patterns using machine learning techniques to predict sleep scores and determine an 
 optimal bedtime range. The study is based on sleep data collected from the Sleep Cycle app and employs clustering and regression models to identify key sleep factors and trends.
 ## How to run the project
-1. Unzip the package and upload the notebook and dataset.zip it to JupyterHub
-2. Uncomment the code '!unzip datatset.zip'
-3. Run the code in the next cell to see if the dataset is retrieved
+1. Download the dataset at https://www.kaggle.com/danagerous/sleep-data
+2. Upload the notebook and dataset.zip to JupyterHub
+3. Uncomment the code '!unzip datatset.zip'
+4. Run the code in the next cell to see if the dataset is retrieved
 
 ## Objectives
 - Predict a sleep score based on various features using machine learning.
